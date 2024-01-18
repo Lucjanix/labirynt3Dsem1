@@ -1,0 +1,4 @@
+repository "labirynt3Dsem1@Lucjanix@cloud"
+  path "/"
+    br "/main"
+    co "/main"
